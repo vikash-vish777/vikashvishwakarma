@@ -143,11 +143,15 @@ During my internship, I:
 
 ## 🏆 Achievements & Certificates
 
-🏅 Certificate of Achievement — Workshop on Basic Programming using Python
+🏅 **Certificate of Achievement** — Workshop on Basic Programming using Python
 
-🚀 Certificate of Appreciation — NASA International Space Apps Challenge 2025
+🚀 **Certificate of Appreciation** — NASA International Space Apps Challenge 2025
 
-🌌 Certificate of Participation — Galactic Problem Solver
+🌌 **Certificate of Participation** — Galactic Problem Solver
+
+💼 **Software Engineering Job Simulation Certificate of Completion** — JPMorgan Chase & Co.
+*Completed January 25, 2026 | Project Setup, Kafka Integration, H2 Integration, REST API Integration & REST API Controller*
+
 
 ---
 
