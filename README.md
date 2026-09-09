@@ -1,68 +1,59 @@
 # Hi 👋, I'm Vikash Vishwakarma
 
-### 🚀 A passionate Java Full-Stack Developer from India
+### 🚀 Java Full-Stack Developer | Spring Boot | React.js | MySQL
 
-I'm a passionate software development student specializing in **Java-based full-stack applications**.  
-I enjoy building practical applications, solving problems, and continuously learning new technologies.
-
-- 🎓 BCA Student at Sandip University, Nashik
-- 💻 Interested in Java Full-Stack Development
-- 🌱 Currently learning **Spring Boot & React.js**
-- 🔧 Building projects using Java, Spring Boot, React and MySQL
-- 🤖 Exploring Machine Learning
-- 🚀 Participated in **NASA International Space Apps Challenge 2025**
-- 📫 Email: **vikash13306@gmail.com**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Java+Full-Stack+Developer;Spring+Boot+%7C+React.js+%7C+MySQL;REST+API+%7C+Postman;Building+Real-World+Applications" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔹 Java Full-Stack Development
-- 🔹 Frontend Development with HTML, CSS, Bootstrap & React.js
-- 🔹 Backend Development with Java & Spring Boot
-- 🔹 REST API Integration & Testing with Postman
-- 🔹 Database Management with MySQL
-- 🔹 Python GUI Development using Tkinter
-- 🔹 Basic Machine Learning
-- 🔹 Git & GitHub
-- 🔹 Strong interest in problem solving and software development
+I'm **Vikash Vishwakarma**, a BCA student and aspiring **Java Full-Stack Developer** passionate about building practical and user-focused applications.
+
+* 🎓 **BCA** — Sandip University, Nashik
+* 💻 **Java Full-Stack Developer**
+* ☕ **Backend:** Java & Spring Boot
+* ⚛️ **Frontend:** React.js, HTML, CSS & Bootstrap
+* 🗄️ **Database:** MySQL
+* 🔗 **API:** REST API Integration
+* 🧪 **API Testing:** Postman
+* 🐍 **Programming:** Python, C, C++, JavaScript & SQL
+* 🤖 Exploring Machine Learning
+* 🚀 NASA International Space Apps Challenge 2025 Participant
+* 🌱 Continuously learning and building real-world applications
 
 ---
 
-## 🛠️ Languages and Tools
+## 💼 Internship Experience
 
-### Programming Languages
+### 🚀 Full Stack Web Development Intern
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
-</p>
+**Codtech IT Solutions Private Limited**
 
-### Frontend Development
+Worked on full-stack web development using:
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
-</p>
+`HTML` `CSS` `Bootstrap` `React.js` `Java` `Spring Boot` `MySQL` `REST API` `Postman`
 
-### Backend & Database
+* Developed responsive frontend interfaces
+* Built backend services using Java and Spring Boot
+* Integrated REST APIs
+* Connected applications with MySQL
+* Tested APIs using Postman
+* Worked on frontend-backend integration
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,mysql" />
-</p>
+### 🌐 Web Development Intern
 
-### Tools
+**Codsoft**
+*August 2025 – September 2025*
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### Machine Learning
-
-- Python
-- NumPy
-- Pandas
-- Scikit-learn
-- Data Preprocessing
-- Basic Machine Learning Concepts
+* Developed responsive web pages
+* Worked with HTML5, CSS3 and Bootstrap
+* Implemented interactive UI features
+* Added form validation
+* Improved responsiveness and usability
+* Debugged and enhanced web applications
 
 ---
 
@@ -70,123 +61,108 @@ I enjoy building practical applications, solving problems, and continuously lear
 
 ### 🛒 E-Commerce Website
 
-**Technologies:** Java, Spring Boot, React.js, MySQL
+**Java | Spring Boot | React.js | MySQL**
 
-A full-stack e-commerce web application with:
+A full-stack e-commerce application featuring:
 
-- 🔐 User authentication
-- 📦 Product management
-- 🛒 Shopping cart
-- 📋 Order management
-- 🗄️ MySQL database
-- 📱 Responsive user interface
-
----
+* 🔐 User authentication
+* 📦 Product management
+* 🛒 Shopping cart
+* 📋 Order management
+* 🔗 REST API integration
+* 🗄️ MySQL database
+* 📱 Responsive UI
 
 ### 🕵️ Criminal Record Management System
 
-**Technologies:** Python, Tkinter, MySQL
+**Python | Tkinter | MySQL**
 
-A GUI-based desktop application developed using Python and Tkinter.
+A desktop application for managing criminal records with:
 
-Features include:
+* ➕ Add records
+* 🔍 Search records
+* ✏️ Update records
+* 🗑️ Delete records
+* 🗄️ MySQL database integration
+* 🖥️ Tkinter GUI
 
-- ➕ Add records
-- ✏️ Update records
-- 🗑️ Delete records
-- 🔍 Manage criminal records
-- 🗄️ MySQL database integration
+### 🌐 Personal Portfolio
 
----
-
-### 🌐 Portfolio Website
-
-My personal portfolio showcasing my projects and development skills.
-
-🔗 **[Visit My Portfolio](https://portfolio-advance-react.vercel.app/)**
-
----
-## 💼 Internship Experience
-
-### 🚀 Full Stack Web Development Intern — Codtech IT Solutions Private Limited
-
-**Role:** Full Stack Web Development
-
-During my internship, I worked on full-stack web application development using:
-
-- 🎨 HTML5, CSS3 & Bootstrap
-- ⚛️ React.js for frontend development
-- ☕ Java for backend development
-- 🌱 Spring Boot for backend services
-- 🗄️ MySQL for database management
-- 🔗 REST API integration
-- 🧪 Postman for API testing
-- 🔧 Git & GitHub for version control
-
-I gained practical experience in developing responsive frontend interfaces, creating backend services with Spring Boot, integrating REST APIs, connecting applications with MySQL, and testing APIs using Postman.
+🔗 https://portfolio-advance-react.vercel.app/
 
 ---
 
-### 🌐 Web Development Intern — Codsoft
+## 🛠️ Tech Stack
 
-**August 2025 – September 2025**
+### Languages
 
-During my internship, I:
+`Java` `Python` `C` `C++` `JavaScript` `SQL`
 
-- Developed responsive web pages using HTML5, CSS3 and Bootstrap
-- Implemented interactive UI features
-- Added form validation
-- Improved website responsiveness and usability
-- Worked on cross-browser compatibility
-- Collaborated with the team to debug web applications
-- Improved application performance
+### Frontend
 
-## 🏆 Achievements & Certificates
+`HTML5` `CSS3` `Bootstrap` `React.js`
 
-🏅 **Certificate of Achievement** — Workshop on Basic Programming using Python
+### Backend
 
-🚀 **Certificate of Appreciation** — NASA International Space Apps Challenge 2025
+`Java` `Spring Boot` `REST APIs`
 
-🌌 **Certificate of Participation** — Galactic Problem Solver
+### Database
 
-💼 **Software Engineering Job Simulation Certificate of Completion** — JPMorgan Chase & Co.
-*Completed January 25, 2026 | Project Setup, Kafka Integration, H2 Integration, REST API Integration & REST API Controller*
+`MySQL`
 
+### Tools
+
+`Git` `GitHub` `VS Code` `Postman`
+
+### Machine Learning
+
+`NumPy` `Pandas` `Scikit-learn`
+
+---
+
+## 🏆 Achievements & Certifications
+
+🏅 **Workshop on Basic Programming using Python**
+
+🚀 **NASA International Space Apps Challenge 2025**
+
+🌌 **Galactic Problem Solver**
+
+💼 **JPMorgan Chase & Co. Software Engineering Job Simulation**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikash-vish777&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikash-vish777&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/vikash-vishwakarma-702513382">
-<img src="https://img.shields.io/badge/LinkedIn-Vikash%20Vishwakarma-blue?style=for-the-badge&logo=linkedin" />
-</a>
+📧 **Email:** [vikash13306@gmail.com](mailto:vikash13306@gmail.com)
 
-<a href="mailto:vikash13306@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-</a>
-</p>
+💼 **LinkedIn:**
+https://www.linkedin.com/in/vikash-vishwakarma-702513382/
+
+🌐 **Portfolio:**
+https://portfolio-advance-react.vercel.app/
 
 ---
 
-## 💡 My Goal
+## 🎯 Career Goal
 
-> To become a skilled software developer by building real-world applications, improving my problem-solving skills, and continuously learning modern technologies.
+> **To become a professional software developer and build scalable, reliable and user-focused applications while continuously improving my technical and problem-solving skills.**
 
 ---
 
 ⭐ **Thanks for visiting my profile!**
 
-If you like my projects, consider giving them a ⭐
+If you find my projects useful, feel free to ⭐ star the repositories.
+⭐
