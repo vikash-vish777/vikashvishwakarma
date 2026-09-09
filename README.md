@@ -201,7 +201,10 @@ A desktop application for managing criminal records with:
 </a>
 
 <a href="https://scikit-learn.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
+       alt="Scikit-learn"
+       width="50"
+       height="50"/>
 </a>
 
 </p>
